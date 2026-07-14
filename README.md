@@ -1,3 +1,5 @@
+**Live-Project-Netlify-Link**
+https://fruitifly.netlify.app/
 # Fruitables - Organic Fruits & Vegetables Website
 
 A premium static frontend website for an organic fruits and vegetables e-commerce store, built with HTML5, CSS3, Bootstrap 5, and Vanilla JavaScript.
